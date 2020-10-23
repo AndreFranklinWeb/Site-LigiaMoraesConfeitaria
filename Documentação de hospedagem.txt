@@ -1,0 +1,21 @@
+Account Details
+Username	epiz_25493274
+Label	Website for lmconfeitaria.epizy.com
+Main Domain	0kucqreb.epizy.com
+Status	Active
+
+Password
+JhEx3UGjGu7VEqS
+
+Created on	2020-04-08
+FTP Details
+FTP Username	epiz_25493274
+
+FTP Password
+JhEx3UGjGu7VEqS
+
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21
+=======================================================================================================================
+usuario: epiz_25493274!
+senha:123mudar!
