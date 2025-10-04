@@ -1,5 +1,11 @@
  body { 
-      background-color: #fef6ad;
+    background-color: #fef6ad;
+    /*margin: 0;
+    height: 100vh;
+    background: #fef6ad url("/img/fundo.jpg") no-repeat center center fixed ;
+    background-size: cover;  
+    font-family: 'Poppins', sans-serif;*/
+      
     }
     
     .navbar { 
