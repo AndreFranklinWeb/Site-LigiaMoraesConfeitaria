@@ -1,9 +1,0 @@
-FTP Username	epiz_27060385
-FTP Password    Ii6Zn8vakNq7
-FTP Hostname	ftpupload.net
-FTP Port (optional)	21
-Domain Names
-ligiamoraesconfeitaria.epizy.com
-=======================================================================================================================
-usuario: epiz_25493274!
-senha:123mudar!
