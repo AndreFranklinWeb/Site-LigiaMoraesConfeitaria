@@ -1,41 +1,64 @@
- body { 
-    background-color: #fef6ad;
-    /*margin: 0;
-    height: 100vh;
-    background: #fef6ad url("/img/fundo.jpg") no-repeat center center fixed ;
-    background-size: cover;  
-    font-family: 'Poppins', sans-serif;*/
-      
-    }
-    
-    .navbar { 
-      
-      background-color: #622010;
-    }
+body {
+  background-color: #fef6ad;
+  font-family: 'Poppins', sans-serif;
+}
 
-     .navbar-brand {
-      color: #fef6ad;
-    }
-    
-    .card { 
-      border-radius: 15px; 
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1); 
-    }
-    
-    .card img { 
-      border-top-left-radius: 15px; 
-      border-top-right-radius: 15px; 
-      height: 200px; object-fit: cover; 
-    }
-    
-    footer { 
+.navbar { 
+    background-color:#622010;
+}
+
+.navbar-brand{
+  color: #fef6ad;
+}
+
+.fw-bold {
+    color: #622010;
+}
+
+.text-muted{
+    color: #622010;
+}
+
+.bg-pink {
+  background-color: #622010 !important;
+  color: #fef6ad;
+}
+
+.btn-pink {
+  background-color: #622010;
+  border: none;
+  color: #fef6ad;
+}
+
+.btn-outline-pink {
+  border-color: #622010;
+  color: #622010;
+}
+
+.btn-outline-pink:hover,
+.btn-pink:hover {
+  background-color: #622010;
+  color: #fef6ad;
+}
+
+.logo {
+  width: 100px;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+label {
+  font-weight: 500;
+  color: #444;
+}
+
+ footer { 
       color: #fef6ad;
       background-color: #622010;
       padding: 15px; 
       text-align: center; 
       margin-top: 30px; 
-    }
-
-    .filter-btn.active { 
-      background-color: #622010; color: #fef6ad;
     }
