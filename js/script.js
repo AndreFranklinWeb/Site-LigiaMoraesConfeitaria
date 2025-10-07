@@ -144,7 +144,7 @@ ${textoPedido}
 
 💰 Total: R$ ${total}`;
 
-  const numero = "5599999999999"; // <-- Coloque aqui o número do WhatsApp
+  const numero = "5585987583698"; // <-- Coloque aqui o número do WhatsApp
   const url = `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
   window.open(url, "_blank");
 });
